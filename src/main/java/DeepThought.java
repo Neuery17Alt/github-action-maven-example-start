@@ -13,7 +13,7 @@ public class DeepThought {
     }
 
     private void calculate(){
-        for(int million_years = 0; million_years < 2; million_years++){
+        for(int million_years = 0; million_years < 3; million_years++){
             System.out.println(million_years + " million years have passed...");
             think(1);
         }
